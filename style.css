@@ -1,0 +1,8 @@
+.box{
+    width: 125px;
+    height: 125px;
+    background-color: lightpink;
+    margin: 10px;
+    display: inline-block;
+    border: 1px solid rgb(243, 6, 184);
+}
